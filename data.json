@@ -2,7 +2,7 @@
   "$meta": {
     "author": "rotyler"
   },
-  "terrariaVersion": "1.4.4.7",
+  "terrariaVersion": "1.4.5.4",
   "stages": [
     {
       "name": "Pre Hardmode",
@@ -10,6 +10,34 @@
         {
           "name": "Copper Shortsword",
           "img": "https://static.wikia.nocookie.net/terraria_gamepedia/images/8/8b/Copper_Shortsword.png"
+        },
+        {
+          "name": "Axearang",
+          "img": "https://terraria.wiki.gg/images/Axearang.png?19b49d"
+        },
+        {
+          "name": "Acorn Slingshot",
+          "img": "https://terraria.wiki.gg/images/Acorn_Slingshot.png?b38c9c"
+        },
+        {
+          "name": "Cattiva",
+          "img": "https://terraria.wiki.gg/images/Cattiva.png?12c45c"
+        },
+        {
+          "name": "Foxparks",
+          "img": "https://terraria.wiki.gg/images/Foxparks.png?4c9c94"
+        },
+        {
+          "name": "Cobwhip",
+          "img": "https://terraria.wiki.gg/images/Cobwhip.png?9c6067"
+        },
+        {
+          "name": "Soulscourge",
+          "img": "https://terraria.wiki.gg/images/Soulscourge.png?9706c3"
+        },
+        {
+          "name": "Vasculash",
+          "img": "https://terraria.wiki.gg/images/Vasculash.png?78cce7"
         },
         {
           "name": "Tin Shortsword",
@@ -557,6 +585,10 @@
           "img": "https://static.wikia.nocookie.net/terraria_gamepedia/images/0/0a/Gray_Zapinator.png"
         },
         {
+          "name": "Slime Whip",
+          "img": "https://terraria.wiki.gg/images/Slime_Whip.png?de2680"
+        },
+        {
           "name": "Slime Spear",
           "img": "https://terraria.wiki.gg/images/Slime_Spear.png?29158e"
         }
@@ -583,8 +615,16 @@
           "img": "https://static.wikia.nocookie.net/terraria_gamepedia/images/e/e5/Fiery_Greatsword.png"
         },
         {
+          "name": "Starcrash",
+          "img": "https://terraria.wiki.gg/images/Starcrash.png?72fd1c"
+        },
+        {
           "name": "Flamarang",
           "img": "https://static.wikia.nocookie.net/terraria_gamepedia/images/b/b8/Flamarang.png"
+        },
+        {
+          "name": "Mushroom Staff",
+          "img": "https://terraria.wiki.gg/images/Mushroom_Staff.png?1d92f0"
         },
         {
           "name": "The Meatball",
@@ -772,8 +812,24 @@
           "img": "https://static.wikia.nocookie.net/terraria_gamepedia/images/9/9f/Pearlwood_Sword.png"
         },
         {
+          "name": "Flint",
+          "img": "https://terraria.wiki.gg/images/Flint.png?35330f"
+        },
+        {
+          "name": "Barrel Launcher",
+          "img": "https://terraria.wiki.gg/images/Barrel_Launcher.png?64a9fa"
+        },
+        {
+          "name": "Killing Deck",
+          "img": "https://terraria.wiki.gg/images/Killing_Deck.png?a7e0b3"
+        },
+        {
           "name": "Classy Cane",
           "img": "https://static.wikia.nocookie.net/terraria_gamepedia/images/7/7d/Classy_Cane.png"
+        },
+        {
+          "name": "Barnacle Staff",
+          "img": "https://terraria.wiki.gg/images/Barnacle_Staff.png?91eaf2"
         },
         {
           "name": "Slap Hand",
@@ -1275,6 +1331,10 @@
           "img": "https://static.wikia.nocookie.net/terraria_gamepedia/images/1/13/Chlorophyte_Shotbow.png"
         },
         {
+          "name": "Venom Staff",
+          "img": "https://terraria.wiki.gg/images/Venom_Staff.png?bcaa0a"
+        },
+        {
           "name": "Pulse Bow",
           "img": "https://static.wikia.nocookie.net/terraria_gamepedia/images/4/44/Pulse_Bow.png"
         },
@@ -1298,6 +1358,10 @@
         {
           "name": "Seedler",
           "img": "https://static.wikia.nocookie.net/terraria_gamepedia/images/a/a0/Seedler.png"
+        },
+        {
+          "name": "Vulgar Display of Flower",
+          "img": "https://terraria.wiki.gg/images/Vulgar_Display_of_Flower.png?bec25c"
         },
         {
           "name": "Terra Blade",
@@ -1507,6 +1571,10 @@
           "img": "https://static.wikia.nocookie.net/terraria_gamepedia/images/c/c4/Tsunami.png"
         },
         {
+          "name": "Electric Eel",
+          "img": "https://terraria.wiki.gg/images/Electric_Eel.png?f6611d"
+        },
+        {
           "name": "Bubble Gun",
           "img": "https://static.wikia.nocookie.net/terraria_gamepedia/images/3/3c/Bubble_Gun.png"
         },
@@ -1636,6 +1704,10 @@
         {
           "name": "Daybreak",
           "img": "https://static.wikia.nocookie.net/terraria_gamepedia/images/7/77/Daybreak.png"
+        },
+        {
+          "name": "Constellation",
+          "img": "https://terraria.wiki.gg/images/Constellation.png?ea8c01"
         },
         {
           "name": "Solar Eruption",
