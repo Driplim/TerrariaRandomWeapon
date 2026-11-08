@@ -2,7 +2,7 @@
   "$meta": {
     "author": "rotyler"
   },
-  "terrariaVersion": "1.4.5.4",
+  "terrariaVersion": "1.4.5.7",
   "stages": [
     {
       "name": "Pre Hardmode",
@@ -10,6 +10,18 @@
         {
           "name": "Copper Shortsword",
           "img": "https://static.wikia.nocookie.net/terraria_gamepedia/images/8/8b/Copper_Shortsword.png"
+        },
+        {
+          "name": "Glacier Fang",
+          "img": "https://terraria.wiki.gg/images/Glacier_Fang.png?4f585a"
+        },
+        {
+          "name": "Mystic Bloom",
+          "img": "https://terraria.wiki.gg/images/Mystic_Bloom.png?62ecff"
+        },
+        {
+          "name": "Clay Bud Staff",
+          "img": "https://terraria.wiki.gg/images/Clay_Bud_Staff.png?a6dd06"
         },
         {
           "name": "Axearang",
@@ -812,8 +824,16 @@
           "img": "https://static.wikia.nocookie.net/terraria_gamepedia/images/9/9f/Pearlwood_Sword.png"
         },
         {
+          "name": "Lightning Strike",
+          "img": "https://terraria.wiki.gg/images/Lightning_Strike.png?526f8a"
+        },
+        {
           "name": "Flint",
           "img": "https://terraria.wiki.gg/images/Flint.png?35330f"
+        },
+        {
+          "name": "Ruinous Staff",
+          "img": "https://terraria.wiki.gg/images/Ruinous_Staff.png?77563c"
         },
         {
           "name": "Barrel Launcher",
@@ -1204,6 +1224,14 @@
         {
           "name": "Excalibur",
           "img": "https://static.wikia.nocookie.net/terraria_gamepedia/images/f/fa/Excalibur.png"
+        },
+        {
+          "name": "Trusty Foxparks",
+          "img": "https://terraria.wiki.gg/images/Foxparks.png?3e4c10"
+        },
+        {
+          "name": "Trusty Cattiva",
+          "img": "https://terraria.wiki.gg/images/Cattiva.png?12c45c"
         },
         {
           "name": "Code 2",
@@ -1623,6 +1651,10 @@
         {
           "name": "Flying Dragon",
           "img": "https://static.wikia.nocookie.net/terraria_gamepedia/images/b/bc/Flying_Dragon.png"
+        },
+        {
+          "name": "Arc Surge",
+          "img": "https://terraria.wiki.gg/images/Arc_Surge.png?9ecfba"
         },
         {
           "name": "Influx Waver",
